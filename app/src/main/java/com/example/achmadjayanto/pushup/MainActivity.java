@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
     private void pushUp(){
         int i = 1+1;
+
+        String nama = "yanto";
+
+        int ii= 2+2;
     }
 }
